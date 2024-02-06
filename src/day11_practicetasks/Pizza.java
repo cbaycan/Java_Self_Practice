@@ -29,9 +29,6 @@ public class Pizza {
        int totalCost = sizePrice+ ((numberOfPepperoniTopping+numberOfCheeseTopping)*2);
        return totalCost;
 
-
-
-
     }
 
 }

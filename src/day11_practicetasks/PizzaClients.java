@@ -19,6 +19,11 @@ public class PizzaClients {
         System.out.println(pizza2);
         System.out.println(pizza3);
 
+
+        System.out.println(pizza1.calCost());
+        System.out.println(pizza2.calCost());
+        System.out.println(pizza3.calCost());
+
     }
 
 
