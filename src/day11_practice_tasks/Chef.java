@@ -1,4 +1,4 @@
-package day11_practicetasks;
+package day11_practice_tasks;
 
 public class Chef {
 

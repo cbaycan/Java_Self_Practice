@@ -1,6 +1,4 @@
-package day11_practicetasks;
-
-import org.w3c.dom.ls.LSOutput;
+package day11_practice_tasks;
 
 public class PizzaClients {
 
